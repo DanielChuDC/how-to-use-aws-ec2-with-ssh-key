@@ -1,0 +1,15 @@
+*.tfvars
+.DC_Store
+*.priv
+*.pub
+my-key
+*.tfstate
+
+*.tfstate.backup
+.vscode
+.terraform
+
+
+
+
+
